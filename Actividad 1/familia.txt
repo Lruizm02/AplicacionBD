@@ -1,0 +1,8 @@
+7933314	Arturo	Ruiz	M	1965-01-22	Padre
+51896907	Dora	Mendoza	F	1968-12-01	Madre
+57678543	Jeniffer	Ruiz	F	1986-03-12	Hermana
+1026254557	Jessica	Ruiz	F	1991-05-8	Hermana
+1013138086	Matias	Ruiz	M	2012-03-13	Hijo
+1030547386	Juana	Pico	F	2008-04-08	Sobrina
+1028654234	Juan	Castellanos	M	2013-01-04	Sobrino
+1021876232	Steven	Villarraga	M 	2000-05-28	Primo

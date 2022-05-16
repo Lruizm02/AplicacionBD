@@ -1,0 +1,10 @@
+
+CREATE TABLE familia (
+ Cedula int(11) NOT NULL,
+ Nombre varchar(20) NOT NULL,
+ Apellido varchar(20) NOT NULL,
+ Sexo char(1) NOT NULL,
+ Nacimiento date NOT NULL,
+ Parentesco varchar(20) NOT NULL,
+ PRIMARY KEY (cedula)
+);
